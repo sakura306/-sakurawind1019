@@ -8,4 +8,6 @@ GPIO.setup(25, GPIO.OUT)
 GPIO.output(25, GPIO.HIGH)
 time.sleep(2) # この間は点灯し続ける
 
-GPIO.cleanup() # <- 消灯
+GPIO.cleanup() # <- 消灯  
+
+zikkou   python3 tentou2.py
