@@ -1,5 +1,5 @@
 ＃sakurawind1019
-import RPi.GPIO as GPIO
+import RPi.GPIO as GPIO　　　　Iは
 import time
 
 GPIO.setmode(GPIO.BCM) 
